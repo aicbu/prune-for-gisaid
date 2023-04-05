@@ -1,5 +1,5 @@
 # prune-for-gisaid
-Please make sure your enviroment have Biopython and Pandas libraries. If not install using PIP.
+Please make sure your environment have Biopython and Pandas libraries. If not install using PIP.
 
 Commands:
 
